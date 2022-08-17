@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-16T17:57:37 IST" name="All Test Suite" finished-at="2022-08-16T17:59:10 IST" duration-ms="92669">
+    <groups>
+    </groups>
+    <test started-at="2022-08-16T17:57:37 IST" name="C:/Users/lenovo/IdeaProjects/UdayPatilMaven/src/test/java/testng/dataprovider/DataProviderByExcel.java" finished-at="2022-08-16T17:59:10 IST" duration-ms="92669">
+      <class name="testng.dataprovider.DataProviderByExcel">
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:testng.dataprovider.DataProviderByExcel@e3c0e40]" started-at="2022-08-16T17:57:39 IST" name="beforeMethod" finished-at="2022-08-16T17:58:24 IST" duration-ms="45075" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyParameter(java.lang.String, java.lang.String)[pri:0, instance:testng.dataprovider.DataProviderByExcel@e3c0e40]" started-at="2022-08-16T17:58:24 IST" name="verifyParameter" data-provider="test-data" finished-at="2022-08-16T17:58:37 IST" duration-ms="13298" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[radmi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyParameter -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testng.dataprovider.DataProviderByExcel@e3c0e40]" started-at="2022-08-16T17:58:37 IST" name="afterMethod" finished-at="2022-08-16T17:58:40 IST" duration-ms="2773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:testng.dataprovider.DataProviderByExcel@e3c0e40]" started-at="2022-08-16T17:58:40 IST" name="beforeMethod" finished-at="2022-08-16T17:58:58 IST" duration-ms="18086" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyParameter(java.lang.String, java.lang.String)[pri:0, instance:testng.dataprovider.DataProviderByExcel@e3c0e40]" started-at="2022-08-16T17:58:58 IST" name="verifyParameter" data-provider="test-data" finished-at="2022-08-16T17:59:06 IST" duration-ms="8497" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vivo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Y91]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyParameter -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testng.dataprovider.DataProviderByExcel@e3c0e40]" started-at="2022-08-16T17:59:06 IST" name="afterMethod" finished-at="2022-08-16T17:59:10 IST" duration-ms="3366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testng.dataprovider.DataProviderByExcel -->
+    </test> <!-- C:/Users/lenovo/IdeaProjects/UdayPatilMaven/src/test/java/testng/dataprovider/DataProviderByExcel.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

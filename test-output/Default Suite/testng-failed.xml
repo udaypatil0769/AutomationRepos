@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="UdayPatilMaven(failed)">
+    <classes>
+      <class name="testng.reportgeneretor.ExtentReportGeneretor">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="test3"/>
+          <include name="reportngClose"/>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- testng.reportgeneretor.ExtentReportGeneretor -->
+    </classes>
+  </test> <!-- UdayPatilMaven(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
